@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 659948f24cdcaa84288f5058fcd30e16, type: 3}
+  m_Name: 11
+  m_EditorClassIdentifier: 
+  combinationResultName: Dead
+  newLook: {fileID: 3604192591476135790, guid: cafa1edd61305014caf1f15e8c688f7a, type: 3}
+  combination:
+    atmostphere: 
+    gravity: 
+    temperature: 
+    water: 
+  isDiscovered: 1
+  description: Dead...
